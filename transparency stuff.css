@@ -21,7 +21,7 @@
 	background-image: var(--transparency-2);
 }
 /* chat and top area and other secondary pages */
- .da-app #friends, .contentRegion-3nDuYy, .chat-3bRxxu, .theme-dark .container-1D34oG {
+ .da-app #friends, .contentRegion-3nDuYy, .theme-dark .container-1D34oG {
 	background: transparent;
 	background-image: var(--transparency-3);
 }
@@ -30,7 +30,7 @@
 	background-color: transparent;
 }
 /* extra for transparency 3 special case */
-.themeDark-3Ap_7i, .da-app .chat-3bRxxu {
+.themeDark-3Ap_7i, .da-app {
 	background-color: transparent;
 	background-image: var(--transparency-3);
 }
