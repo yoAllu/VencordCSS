@@ -16,7 +16,7 @@
 }
 
 /* transparency for channels and members list and private channels and left side of settings*/
-.container-3w7J-x, .sidebarRegion-VFTUkN {
+.sidebarRegion-VFTUkN {
 	background: transparent;
 	background-image: var(--transparency-2);
 }
